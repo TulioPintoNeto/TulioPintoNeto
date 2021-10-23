@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Tulio 😄
 
-<!--
-**TulioPintoNeto/TulioPintoNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Flutter and React JS
+- 🌱 I’m currently learning about Clean Archtecture
+- 👯 I’m looking to collaborate on projects that can increase my code quality
+- 📫 How to reach me:
+  - ✉️  tulio_neto_2@hotmail.com
+  - 📱  +55 51 99408-1002
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/TulioPintoNeto/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=TulioPintoNeto&show_icons=true&theme=dark&count_private=true"/>
+</a>
+<a href="https://github.com/TulioPintoNeto/convoychat">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioPintoNeto&layout=compact&count_private=true&show_icons=true&theme=dark" />
+</a>
