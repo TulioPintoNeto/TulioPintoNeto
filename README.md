@@ -7,9 +7,11 @@
   - ✉️  tulio_neto_2@hotmail.com
   - 📱  +55 51 99408-1002
 
+<div>
 <a href="https://github.com/TulioPintoNeto/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=TulioPintoNeto&show_icons=true&theme=dark&count_private=true"/>
 </a>
 <a href="https://github.com/TulioPintoNeto/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioPintoNeto&layout=compact&count_private=true&show_icons=true&theme=dark" />
-</a>
+</a> 
+</div>
