@@ -8,10 +8,8 @@
   - 📱  +55 51 99408-1002
 
 <div align="center">
-<a href="https://github.com/TulioPintoNeto/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TulioPintoNeto&show_icons=true&theme=dark&count_private=true"/>
-</a>
-<a href="https://github.com/TulioPintoNeto/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioPintoNeto&layout=compact&count_private=true&show_icons=true&theme=dark" />
-</a> 
+  <a href="https://github.com/TulioPintoNeto/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TulioPintoNeto&show_icons=true&theme=dark&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioPintoNeto&layout=compact&count_private=true&show_icons=true&theme=dark" />
+  </a> 
 </div>
