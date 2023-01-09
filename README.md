@@ -1,11 +1,11 @@
 ## Hi, I'm Tulio 😄
 
-- 🔭 I’m currently working on Flutter and React JS
-- 🌱 I’m currently learning about Clean Archtecture
+- 🔭 I’m currently working on React JS and Flutter
+- 🌱 I’m currently learning about Cypress
 - 👯 I’m looking to collaborate on projects that can increase my code quality
 - 📫 How to reach me:
   - ✉️  tulio_neto_2@hotmail.com
-  - 📱  +55 51 99408-1002
+  - 📱  +44 0 7423 380432
 
 <div align="center">
   <a href="https://github.com/TulioPintoNeto">
