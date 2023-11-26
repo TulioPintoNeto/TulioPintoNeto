@@ -1,8 +1,8 @@
 ## Hi, I'm Tulio 😄
 
-- 🔭 I’m currently working on React JS and Flutter
-- 🌱 I’m currently learning about Cypress
-- 👯 I’m looking to collaborate on projects that can increase my code quality
+- 💻 I’m currently working on React JS and Flutter
+- ✨ I’m currently learning about leadership management
+- 👋 I’m looking to collaborate on open source projects
 - 📫 How to reach me:
   - ✉️  tulio_neto_2@hotmail.com
   - 📱  +44 0 7423 380432
