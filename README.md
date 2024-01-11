@@ -1,7 +1,7 @@
 ## Hi, I'm Tulio 😄
 
 - 💻 I’m currently working on React JS and Flutter
-- ✨ I’m currently learning about leadership management
+- ✨ I’m currently learning about leadership
 - 👋 I’m looking to collaborate on open source projects
 - 📫 How to reach me:
   - ✉️  tulio_neto_2@hotmail.com
