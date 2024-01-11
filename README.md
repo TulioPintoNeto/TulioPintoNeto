@@ -4,7 +4,7 @@
 - ✨ I’m currently learning about leadership
 - 👋 I’m looking to collaborate on open source projects
 - 📫 How to reach me:
-  - ✉️  tulio_neto_2@hotmail.com
+  - ✉️  tulio.pinto.neto@gmail.com
   - 📱  +44 0 7423 380432
 
 <div align="center">
