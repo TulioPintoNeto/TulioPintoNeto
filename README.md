@@ -1,7 +1,7 @@
 ## Hi, I'm Tulio 😄
 
-- 💻 I’m currently working on React JS and Flutter
-- ✨ I’m currently learning about leadership and how our brain processes code
+- 💻 I’m currently working on React JS, Angular and Node.JS
+- ✨ I’m currently learning about how our brain processes code
 - 👋 I’m looking to collaborate on open source projects
 - 📫 How to reach me:
   - ✉️  tulio.pinto.neto@gmail.com
